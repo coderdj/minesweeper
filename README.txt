@@ -1,5 +1,6 @@
 Minesweeper
-D.Coderre 25.04.2015
+Author: Definitely not D.Coderre 
+Date: 25.04.2015
 
 Brief:
 
